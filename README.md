@@ -1,5 +1,5 @@
 # quickLayOut
-quick layout
-https://weui.io/
-https://github.com/zhangxinxu/quickLayout
-https://github.com/zhangxinxu/zxx.lib.css
+quick layout <br />
+https://weui.io/ <br />
+https://github.com/zhangxinxu/quickLayout<br />
+https://github.com/zhangxinxu/zxx.lib.css<br />
